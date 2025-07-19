@@ -56,6 +56,15 @@ rose-leaf-disease-detector-yolov8/
 └── README.md
 
 ---
+### 📽 Demo Video
+
+<video width="600" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+👉 [Video Demo](https://github.com/BuilderRZ/rose-leaf-disease-detector-yolov8/raw/main/assets/demo.mp4)
+
 
 ## 🚦 How to Run
 
@@ -76,12 +85,7 @@ The YOLOv8 model is located in yolov8_model/best.pt and trained on rose leaf dat
 All uploaded images are processed and visualized with bounding boxes + disease info.
 
 The CNN model helps filter out non-rose leaf images before running YOLOv8.
-### 📽 Demo Video
 
-<video width="600" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 📜 License
 MIT License © 2025 Syaiful Rizal / Nebulir Labs
@@ -92,3 +96,5 @@ Dataset labeled using Roboflow
 YOLOv8 by Ultralytics
 
 Developed with ❤️ by Rizal / Nebulir Labs
+
+
