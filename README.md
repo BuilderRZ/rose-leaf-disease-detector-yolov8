@@ -76,6 +76,12 @@ The YOLOv8 model is located in yolov8_model/best.pt and trained on rose leaf dat
 All uploaded images are processed and visualized with bounding boxes + disease info.
 
 The CNN model helps filter out non-rose leaf images before running YOLOv8.
+### 📽 Demo Video
+
+<video width="600" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 📜 License
 MIT License © 2025 Syaiful Rizal / Nebulir Labs
